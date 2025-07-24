@@ -67,17 +67,6 @@ function App() {
     return dates.length > 0 ? dates[0]! : new Date()
   }, [affordabilityTrendData])
 
-  // Get display text for current date range
-  const getDateRangeText = useCallback(() => {
-    if (globalDateRange.from && globalDateRange.to) {
-      return `${format(globalDateRange.from, 'MMM dd, yyyy')} - ${format(globalDateRange.to, 'MMM dd, yyyy')}`
-    }
-    if (globalDateRange.from) {
-      return `From ${format(globalDateRange.from, 'MMM dd, yyyy')}`
-    }
-    return "All Time"
-  }, [globalDateRange])
-
   // Get shorter display text for mobile
   const getShortDateRangeText = useCallback(() => {
     if (globalDateRange.from && globalDateRange.to) {

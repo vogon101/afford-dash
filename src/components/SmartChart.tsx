@@ -59,8 +59,6 @@ const resampleData = (data: ChartDataPoint[], resolution: string): ChartDataPoin
         break
         
       case 'biweekly':
-        // Group by 2-week periods
-        const biweekStart = new Date(date)
         const daysSinceEpoch = Math.floor(date.getTime() / (1000 * 60 * 60 * 24))
         const biweekNumber = Math.floor(daysSinceEpoch / 14)
         groupKey = `biweek-${biweekNumber}`
