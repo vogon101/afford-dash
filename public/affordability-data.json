@@ -1,0 +1,262 @@
+{
+  "East Midlands": {
+    "affordability": 54.4,
+    "trend": "up",
+    "lastUpdated": "2025-07-24T15:20:26.044962Z",
+    "gilts": {
+      "value": 4.6051,
+      "change": 0.2,
+      "trend": "up"
+    },
+    "housePrice": {
+      "value": 242052,
+      "change": 2.1,
+      "trend": "up"
+    },
+    "income": {
+      "value": 36285,
+      "change": 1.8,
+      "trend": "up"
+    }
+  },
+  "East of England": {
+    "affordability": 75.7,
+    "trend": "up",
+    "lastUpdated": "2025-07-24T15:20:26.044962Z",
+    "gilts": {
+      "value": 4.6051,
+      "change": 0.2,
+      "trend": "up"
+    },
+    "housePrice": {
+      "value": 339747,
+      "change": 2.1,
+      "trend": "up"
+    },
+    "income": {
+      "value": 36602,
+      "change": 1.8,
+      "trend": "up"
+    }
+  },
+  "England": {
+    "affordability": 64.6,
+    "trend": "up",
+    "lastUpdated": "2025-07-24T15:20:26.044962Z",
+    "gilts": {
+      "value": 4.6051,
+      "change": 0.2,
+      "trend": "up"
+    },
+    "housePrice": {
+      "value": 290395,
+      "change": 2.1,
+      "trend": "up"
+    },
+    "income": {
+      "value": 36655,
+      "change": 1.8,
+      "trend": "up"
+    }
+  },
+  "London": {
+    "affordability": 126.7,
+    "trend": "up",
+    "lastUpdated": "2025-07-24T15:20:26.044962Z",
+    "gilts": {
+      "value": 4.6051,
+      "change": 0.2,
+      "trend": "up"
+    },
+    "housePrice": {
+      "value": 565637,
+      "change": 2.1,
+      "trend": "up"
+    },
+    "income": {
+      "value": 36417,
+      "change": 1.8,
+      "trend": "up"
+    }
+  },
+  "North East": {
+    "affordability": 35.3,
+    "trend": "up",
+    "lastUpdated": "2025-07-24T15:20:26.044962Z",
+    "gilts": {
+      "value": 4.6051,
+      "change": 0.2,
+      "trend": "up"
+    },
+    "housePrice": {
+      "value": 159142,
+      "change": 2.1,
+      "trend": "up"
+    },
+    "income": {
+      "value": 36716,
+      "change": 1.8,
+      "trend": "up"
+    }
+  },
+  "North West": {
+    "affordability": 47.9,
+    "trend": "up",
+    "lastUpdated": "2025-07-24T15:20:26.044962Z",
+    "gilts": {
+      "value": 4.6051,
+      "change": 0.2,
+      "trend": "up"
+    },
+    "housePrice": {
+      "value": 209498,
+      "change": 2.1,
+      "trend": "up"
+    },
+    "income": {
+      "value": 35691,
+      "change": 1.8,
+      "trend": "up"
+    }
+  },
+  "Northern Ireland": {
+    "affordability": 41.4,
+    "trend": "up",
+    "lastUpdated": "2025-07-24T15:20:26.044962Z",
+    "gilts": {
+      "value": 4.6051,
+      "change": 0.2,
+      "trend": "up"
+    },
+    "housePrice": {
+      "value": 185037,
+      "change": 2.1,
+      "trend": "up"
+    },
+    "income": {
+      "value": 36486,
+      "change": 1.8,
+      "trend": "up"
+    }
+  },
+  "Scotland": {
+    "affordability": 43.3,
+    "trend": "up",
+    "lastUpdated": "2025-07-24T15:20:26.044962Z",
+    "gilts": {
+      "value": 4.6051,
+      "change": 0.2,
+      "trend": "up"
+    },
+    "housePrice": {
+      "value": 191927,
+      "change": 2.1,
+      "trend": "up"
+    },
+    "income": {
+      "value": 36178,
+      "change": 1.8,
+      "trend": "up"
+    }
+  },
+  "South East": {
+    "affordability": 86.9,
+    "trend": "up",
+    "lastUpdated": "2025-07-24T15:20:26.044962Z",
+    "gilts": {
+      "value": 4.6051,
+      "change": 0.2,
+      "trend": "up"
+    },
+    "housePrice": {
+      "value": 380650,
+      "change": 2.1,
+      "trend": "up"
+    },
+    "income": {
+      "value": 35702,
+      "change": 1.8,
+      "trend": "up"
+    }
+  },
+  "South West": {
+    "affordability": 67.8,
+    "trend": "up",
+    "lastUpdated": "2025-07-24T15:20:26.044962Z",
+    "gilts": {
+      "value": 4.6051,
+      "change": 0.2,
+      "trend": "up"
+    },
+    "housePrice": {
+      "value": 304237,
+      "change": 2.1,
+      "trend": "up"
+    },
+    "income": {
+      "value": 36589,
+      "change": 1.8,
+      "trend": "up"
+    }
+  },
+  "Wales": {
+    "affordability": 48.0,
+    "trend": "up",
+    "lastUpdated": "2025-07-24T15:20:26.044962Z",
+    "gilts": {
+      "value": 4.6051,
+      "change": 0.2,
+      "trend": "up"
+    },
+    "housePrice": {
+      "value": 209580,
+      "change": 2.1,
+      "trend": "up"
+    },
+    "income": {
+      "value": 35586,
+      "change": 1.8,
+      "trend": "up"
+    }
+  },
+  "West Midlands": {
+    "affordability": 52.2,
+    "trend": "up",
+    "lastUpdated": "2025-07-24T15:20:26.044962Z",
+    "gilts": {
+      "value": 4.6051,
+      "change": 0.2,
+      "trend": "up"
+    },
+    "housePrice": {
+      "value": 231040,
+      "change": 2.1,
+      "trend": "up"
+    },
+    "income": {
+      "value": 36091,
+      "change": 1.8,
+      "trend": "up"
+    }
+  },
+  "Yorkshire and The Humber": {
+    "affordability": 46.0,
+    "trend": "up",
+    "lastUpdated": "2025-07-24T15:20:26.044962Z",
+    "gilts": {
+      "value": 4.6051,
+      "change": 0.2,
+      "trend": "up"
+    },
+    "housePrice": {
+      "value": 203836,
+      "change": 2.1,
+      "trend": "up"
+    },
+    "income": {
+      "value": 36118,
+      "change": 1.8,
+      "trend": "up"
+    }
+  }
+}
